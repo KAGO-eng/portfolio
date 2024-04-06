@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, MATLAB
 
 ## Education						       		
-- MSc Data Science| The University of Texas at Dallas (_September 2024_)	 			        		
-- BSc(Hons) Mathematics | Heriot Watt University (_May 2016_)
+- MSc Data Science      | University of Essex    | England, United Kingdom (_September 2024_)	 			        		
+- BSc(Hons) Mathematics | Heriot Watt University | Scotland, United Kingdom (_May 2016_)
 
 ## Work Experience
 **Research and Insights Learner Official t @ Botswana Telecommunications Corporation (_September 2021 - May 2023_)**
