@@ -20,7 +20,23 @@
 
 
 ## Projects
-### [British Airways Vitual Internship](https://github.com/KAGO-eng/British-Airways-Virtual-Internship)
+### 1. [British Airways Vitual Internship](https://github.com/KAGO-eng/British-Airways-Virtual-Internship)
+
+British Airways Data Science Job Simulation on Forage - January 2024
+
+ * Completed a simulation focussing on how data science is a critical component
+   of British Airways success
+ * Scraped and analysed customer review data to uncover findings
+ * Built a predictive model to understand factors that influence buying
+   behaviour
+
+### 2. [Mall Customers K-Means Clustering](https://github.com/KAGO-eng/Kaggle-datasets/tree/main/Mall%20Customers)
+
+Identified clusters of customers using K-Means. Task involved:
+
+  * Identification of number of clusters to be formed
+  * Data Modelling and prepation
+  * Visualization of the identifed clusters
 
 
 
